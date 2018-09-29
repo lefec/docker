@@ -1,3 +1,3 @@
 FROM rocker/shiny
 
-EXPOSE 7070
+EXPOSE 8080
